@@ -1,0 +1,51 @@
+/**
+ * problem3.css
+ *
+ * You will be adding new rules to this file in order to alter the way that problem3.html looks
+ * when viewed in a web browser.
+ */
+
+div {
+	padding: 20px;
+}
+
+/* Sytles for the first box */
+
+.first {
+	border: 5px dotted black; 
+}
+
+.first p {
+	color: blue;
+}
+
+.first p a {
+	text-decoration: none;
+}
+
+
+/* Styles for the second box */
+.second {
+	background-color: limegreen;
+}
+
+.second p a {
+	font-style: italic;
+}
+
+.second div {
+	border: 1px black solid;
+	padding: 0px;
+}
+
+
+/* Styles for the third box */
+.third {
+	border: blue solid 10px;
+}
+
+/* Styles for the fourth box */
+
+#fourth {
+	font-size: 200%;
+}	

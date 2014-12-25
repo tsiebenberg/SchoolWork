@@ -1,0 +1,70 @@
+body {
+	margin-top: 0;
+}
+
+/******* Whole container syles **************/
+#container {
+	width: 1000px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#container  div {
+	box-sizing: border-box;
+	float: left;
+}
+
+.cornerBox {
+	width: 150px;
+	height: 100px;
+	background-color: black;
+}
+
+ol {
+	list-style-type: none;
+}
+
+/******** header styles ********************/
+
+.header	.h1Box {
+	width: 850px;
+	height: 100px;
+	background-color: #60ABDD;
+}
+
+	.header .h1Box h1 {
+		font-size: 3em;
+		text-align: center;
+	}
+
+/*********** middleBox styles ************/
+.leftBar {
+	width: 150px;
+	padding-bottom: 100px;
+	background-color: #60ABDD;
+}
+
+	.leftBar ol {
+		position: fixed;
+		padding-top: 50px;
+	}
+
+		.leftBar ol a {
+			font-size: 1.5em;
+		}
+
+.mainContent {
+	width: 850px;
+}
+
+/********** footer ***********************/
+.footer {
+	width: 1000px;
+	height: 100px;
+	background-color: #60ABDD;
+}
+
+.footer ol{
+	padding-left: 50%;
+	padding-top: 25px;
+}

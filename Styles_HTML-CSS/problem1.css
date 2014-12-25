@@ -1,0 +1,85 @@
+/******** body styling ***********************/
+body {
+	margin-top: 0px;
+}
+
+/********** Whole container styling ***********/
+div#container {
+	width: 1000px;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+div#container div {
+	float: left;
+	box-sizing: border-box;
+}
+
+/************* header styling ***************/
+div.header {
+	width: 1000px;
+	margin-bottom: 20px;
+	background-image: url(header.png);
+}
+
+.header h1 {
+	padding-top: 75px;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 3em;
+	color: white;
+}
+
+/*************** leftSideBar styling *********/
+div.leftSideBar {
+	width: 200px;	
+}
+
+.button {
+	margin-bottom: 10px;	
+}
+
+.button h2 {
+	box-sizing: border-box;
+	width: 200px;
+	margin: 0;
+	padding: 5px;
+	background-size: cover;
+	background-image: url(button-background.png);
+	font-family: sans-serif;
+	text-align: center;
+}
+
+/*********** mainContent styling ************/
+div.mainContent {
+	width: 800px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+}
+
+.mainContent .p1 {
+	box-sizing: border-box;
+	width: 630px;
+}
+
+.mainContent .p1 p {
+	margin: 0;
+	padding-left: 20px;	
+}
+
+/********* footer styling ******************/
+div.footer {
+	width: 1000px;
+	padding: 20px;
+	margin-bottom: 30px;
+	background-color: #84d2e2;
+}
+
+.footer div {
+	width: 25%;
+}
+
+.footer ol {
+	list-style-type: none;
+}
+
