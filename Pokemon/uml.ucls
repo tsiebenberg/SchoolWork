@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <interface id="1" language="java" name="observer.Observer" project="Pokemon" 
+    file="/Pokemon/src/observer/Observer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="161" x="493" y="571"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="test.TestBlackOutPanel" project="Pokemon" 
+    file="/Pokemon/src/test/TestBlackOutPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="155" x="63" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="battle.WildPokemonStrategy" project="Pokemon" 
+    file="/Pokemon/src/battle/WildPokemonStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="207" x="3442" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="battle.IStrategy" project="Pokemon" file="/Pokemon/src/battle/IStrategy.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="259" x="5025" y="7933"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="5" language="java" name="test.TestModel" project="Pokemon" file="/Pokemon/src/test/TestModel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="195" x="258" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="animations.StorePanel.BuyItem" project="Pokemon" 
+    file="/Pokemon/src/animations/StorePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="5107" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="observer.Observable" project="Pokemon" 
+    file="/Pokemon/src/observer/Observable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="181" x="493" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="test.testBeginningView" project="Pokemon" 
+    file="/Pokemon/src/test/testBeginningView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="215" x="714" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="mapHierarchy.MainZone" project="Pokemon" 
+    file="/Pokemon/src/mapHierarchy/MainZone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="746" width="251" x="1848" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="view.PokeCenterView" project="Pokemon" 
+    file="/Pokemon/src/view/PokeCenterView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="440" width="212" x="5276" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="view.MainZoneView.PlayerAnimation" project="Pokemon" 
+    file="/Pokemon/src/view/MainZoneView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="3434" y="1513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="mapHierarchy.Zone" project="Pokemon" file="/Pokemon/src/mapHierarchy/Zone.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="218" x="2638" y="2191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="test.TestPC" project="Pokemon" file="/Pokemon/src/test/TestPC.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="182" x="1170" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="battle.RandomStrategy" project="Pokemon" 
+    file="/Pokemon/src/battle/RandomStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="259" x="4616" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="itemHierarchy.Key" project="Pokemon" file="/Pokemon/src/itemHierarchy/Key.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="111" x="3959" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="battle.BossStrategy" project="Pokemon" 
+    file="/Pokemon/src/battle/BossStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="298" x="4915" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="playerHierarchy.Trainer" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/Trainer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="154" x="4310" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="playerHierarchy.ComputerPlayer" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/ComputerPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="204" x="3921" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="test.TestPokemonReader" project="Pokemon" 
+    file="/Pokemon/src/test/TestPokemonReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="172" x="1962" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="view.BeginningView" project="Pokemon" file="/Pokemon/src/view/BeginningView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="172" x="5594" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="test.TestPCPanel" project="Pokemon" file="/Pokemon/src/test/TestPCPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="149" x="2371" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="itemHierarchy.RareCandy" project="Pokemon" 
+    file="/Pokemon/src/itemHierarchy/RareCandy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="160" x="4110" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="itemHierarchy.Pokeball" project="Pokemon" 
+    file="/Pokemon/src/itemHierarchy/Pokeball.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="221" x="2934" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="pokemonHierarchy.Move" project="Pokemon" 
+    file="/Pokemon/src/pokemonHierarchy/Move.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="221" x="3698" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="mapHierarchy.GymZone" project="Pokemon" 
+    file="/Pokemon/src/mapHierarchy/GymZone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="332" width="251" x="2990" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="animations.BlackOutPanel.ChangeOpacity" project="Pokemon" 
+    file="/Pokemon/src/animations/BlackOutPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="5849" y="571"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="mapHierarchy.PokeCenterZone" project="Pokemon" 
+    file="/Pokemon/src/mapHierarchy/PokeCenterZone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="191" x="2426" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="28" language="java" name="playerHierarchy.Direction" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/Direction.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="137" x="5617" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="29" language="java" name="test.TestMoveReader" project="Pokemon" 
+    file="/Pokemon/src/test/TestMoveReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="150" x="2560" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="model.PokemonModelGUI" project="Pokemon" 
+    file="/Pokemon/src/model/PokemonModelGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="440" width="170" x="2750" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="elements.Ground" project="Pokemon" file="/Pokemon/src/elements/Ground.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="111" x="2960" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="view.BeginningView.AddButtonListener" project="Pokemon" 
+    file="/Pokemon/src/view/BeginningView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="5594" y="571"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="battle.HumanStrategy" project="Pokemon" 
+    file="/Pokemon/src/battle/HumanStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="259" x="5253" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="test.TestStorePanel" project="Pokemon" 
+    file="/Pokemon/src/test/TestStorePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="149" x="1617" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="view.PokemonConsole" project="Pokemon" 
+    file="/Pokemon/src/view/PokemonConsole.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="145" x="3111" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="animations.PCPanel.WithdrawPokemon" project="Pokemon" 
+    file="/Pokemon/src/animations/PCPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="3158" y="1513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="itemHierarchy.Potion" project="Pokemon" 
+    file="/Pokemon/src/itemHierarchy/Potion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="221" x="3195" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="animations.BattleAnimation" project="Pokemon" 
+    file="/Pokemon/src/animations/BattleAnimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="566" width="299" x="4009" y="2191"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="view.MainZoneView" project="Pokemon" file="/Pokemon/src/view/MainZoneView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="422" width="202" x="4014" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="itemHierarchy.Item" project="Pokemon" file="/Pokemon/src/itemHierarchy/Item.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="111" x="3195" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="view.DungeonView.PlayerAnimation" project="Pokemon" 
+    file="/Pokemon/src/view/DungeonView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="4653" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="buildingHierarchy.Store" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/Store.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="186" x="2708" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="test.TestMap" project="Pokemon" file="/Pokemon/src/test/TestMap.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="158" x="3710" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="buildingHierarchy.Gym" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/Gym.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="179" x="2067" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="45" language="java" name="pokemonHierarchy.IMove" project="Pokemon" 
+    file="/Pokemon/src/pokemonHierarchy/IMove.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="221" x="3698" y="7399"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="46" language="java" name="model.MoveDatabase" project="Pokemon" file="/Pokemon/src/model/MoveDatabase.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="153" x="3002" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="animations.BlackOutPanel" project="Pokemon" 
+    file="/Pokemon/src/animations/BlackOutPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="200" x="5849" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="playerHierarchy.BossTrainer" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/BossTrainer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="206" width="181" x="3456" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="pokemonHierarchy.Pokemon" project="Pokemon" 
+    file="/Pokemon/src/pokemonHierarchy/Pokemon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="818" width="384" x="4599" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="animations.StorePanel" project="Pokemon" 
+    file="/Pokemon/src/animations/StorePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="278" width="170" x="5107" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="playerHierarchy.Player" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="530" width="230" x="3155" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="animations.BattleAnimation.Drawings" project="Pokemon" 
+    file="/Pokemon/src/animations/BattleAnimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="200" x="3729" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="animations.PCPanel" project="Pokemon" file="/Pokemon/src/animations/PCPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="296" width="174" x="3394" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="test.TestPlayerHierarchy" project="Pokemon" 
+    file="/Pokemon/src/test/TestPlayerHierarchy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="80" width="161" x="969" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="view.MainGUI" project="Pokemon" file="/Pokemon/src/view/MainGUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="494" width="184" x="4689" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="56" language="java" name="view.PokeCenterView.PlayerAnimation" project="Pokemon" 
+    file="/Pokemon/src/view/PokeCenterView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="5276" y="1513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="57" language="java" name="animations.PCPanel.StorePokemon" project="Pokemon" 
+    file="/Pokemon/src/animations/PCPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="2903" y="1513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="elements.Grass" project="Pokemon" file="/Pokemon/src/elements/Grass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="111" x="1392" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="battle.Battle" project="Pokemon" file="/Pokemon/src/battle/Battle.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="345" x="3281" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="buildingHierarchy.Dungeon" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/Dungeon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="179" x="1848" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="view.MainGUI.KeyListen" project="Pokemon" file="/Pokemon/src/view/MainGUI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="184" x="3985" y="571"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="model.SpriteManager" project="Pokemon" 
+    file="/Pokemon/src/model/SpriteManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="2834" width="289" x="4287" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="63" language="java" name="itemHierarchy" project="Pokemon" file="/Pokemon/src/itemHierarchy" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="118" x="1543" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <interface id="64" language="java" name="pokemonHierarchy.IPokemon" project="Pokemon" 
+    file="/Pokemon/src/pokemonHierarchy/IPokemon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="221" x="4783" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="65" language="java" name="test.PlayerTest" project="Pokemon" file="/Pokemon/src/test/PlayerTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="221" x="1701" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="view.EndGameView" project="Pokemon" file="/Pokemon/src/view/EndGameView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="134" width="202" x="4411" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="model.DatabaseReader" project="Pokemon" 
+    file="/Pokemon/src/model/DatabaseReader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="224" width="280" x="2814" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="test.TestHealthStation" project="Pokemon" 
+    file="/Pokemon/src/test/TestHealthStation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="157" x="2174" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="test.TestBattleAnimation" project="Pokemon" 
+    file="/Pokemon/src/test/TestBattleAnimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="164" x="2610" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="view.GymView.PlayerAnimation" project="Pokemon" 
+    file="/Pokemon/src/view/GymView.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="4653" y="1513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="playerHierarchy.HumanPlayer" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/HumanPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="494" width="319" x="2360" y="7399"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="animations.StorePanel.SellItem" project="Pokemon" 
+    file="/Pokemon/src/animations/StorePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="5362" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="view.MainGUI.MenuListener" project="Pokemon" 
+    file="/Pokemon/src/view/MainGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="4272" y="571"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="playerHierarchy.AI" project="Pokemon" file="/Pokemon/src/playerHierarchy/AI.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="188" width="226" x="2442" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="playerHierarchy.BossGuard" project="Pokemon" 
+    file="/Pokemon/src/playerHierarchy/BossGuard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="152" width="176" x="4504" y="7099"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="buildingHierarchy.HealStation" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/HealStation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="171" x="2378" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="mapHierarchy.DungeonZone" project="Pokemon" 
+    file="/Pokemon/src/mapHierarchy/DungeonZone.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="368" width="251" x="2699" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="buildingHierarchy.PokeCenter" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/PokeCenter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="116" width="179" x="2307" y="6241"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="buildingHierarchy.Building" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/Building.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="368" width="186" x="1848" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="test.TestStore" project="Pokemon" file="/Pokemon/src/test/TestStore.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="170" width="223" x="3296" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="elements.Rock" project="Pokemon" file="/Pokemon/src/elements/Rock.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="111" x="3559" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="view.DungeonView" project="Pokemon" file="/Pokemon/src/view/DungeonView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="422" width="200" x="4729" y="571"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="buildingHierarchy.PC" project="Pokemon" 
+    file="/Pokemon/src/buildingHierarchy/PC.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="319" x="3689" y="5671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="view.GymView" project="Pokemon" file="/Pokemon/src/view/GymView.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="422" width="200" x="4950" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="model.PokemonModel" project="Pokemon" file="/Pokemon/src/model/PokemonModel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="638" width="304" x="3689" y="1513"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="86" language="java" name="animations" project="Pokemon" file="/Pokemon/src/animations" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="115" x="3908" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <enumeration id="87" language="java" name="pokemonHierarchy.ElementType" project="Pokemon" 
+    file="/Pokemon/src/pokemonHierarchy/ElementType.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="146" x="4743" y="7399"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <package id="88" language="java" name="elements" project="Pokemon" file="/Pokemon/src/elements" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="115" x="4228" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="89" language="java" name="test.SpriteTest" project="Pokemon" file="/Pokemon/src/test/SpriteTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="125" x="4063" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="90" language="java" name="model" project="Pokemon" file="/Pokemon/src/model" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="115" x="4383" y="37"/>    
+    <display autosize="true" stereotype="true" accessors="true"/>  
+  </package>  
+  <class id="91" language="java" name="mapHierarchy.Square" project="Pokemon" 
+    file="/Pokemon/src/mapHierarchy/Square.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="314" width="205" x="2160" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="92" language="java" name="elements.Water" project="Pokemon" file="/Pokemon/src/elements/Water.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="111" x="4538" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="93" language="java" name="animations.BattleAnimation.ButtonListener" project="Pokemon" 
+    file="/Pokemon/src/animations/BattleAnimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="98" width="215" x="3969" y="2797"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="94">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="79"/>  
+  </generalization>  
+  <association id="95">    
+    <bendpoint x="4256" y="2797"/>    
+    <bendpoint x="4256" y="5671"/>    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="96" name="attPokemon"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="99" name="hm"/>      
+      <multiplicity id="100" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="101">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="102" name="gym"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <bendpoint x="4622" y="1513"/>    
+    <bendpoint x="4622" y="2191"/>    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="105" name="imgGrab"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="107">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="108" name="boss"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="110">    
+    <bendpoint x="4991" y="571"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="111" name="pokecenterView"/>      
+      <multiplicity id="112" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="113">    
+    <bendpoint x="1817" y="2191"/>    
+    <bendpoint x="1817" y="2797"/>    
+    <bendpoint x="1817" y="5671"/>    
+    <bendpoint x="1817" y="6241"/>    
+    <bendpoint x="1817" y="7099"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="114" name="player"/>      
+      <multiplicity id="115" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="116">    
+    <end type="SOURCE" refId="48"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="117">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="118" name="model"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <bendpoint x="5245" y="1513"/>    
+    <bendpoint x="5542" y="2191"/>    
+    <bendpoint x="5584" y="2797"/>    
+    <bendpoint x="5584" y="5671"/>    
+    <bendpoint x="5584" y="6241"/>    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="121" name="facing"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="123">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="70"/>  
+  </nesting>  
+  <association id="124">    
+    <bendpoint x="4959" y="571"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="125" name="gymView"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="84" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="127">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="128" name="moves"/>      
+      <multiplicity id="129" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="130">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="40"/>  
+  </generalization>  
+  <generalization id="131">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="132">    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="133" name="ba"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <bendpoint x="4517" y="571"/>    
+    <bendpoint x="4359" y="1033"/>    
+    <bendpoint x="4359" y="1513"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="136" name="ba"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="138">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <nesting id="139">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <association id="140">    
+    <bendpoint x="3403" y="1513"/>    
+    <bendpoint x="3527" y="2191"/>    
+    <bendpoint x="3677" y="2797"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="141" name="pc"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <bendpoint x="4235" y="2797"/>    
+    <bendpoint x="4235" y="5671"/>    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="144" name="defPokemon"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="146">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="147">    
+    <bendpoint x="4925" y="5671"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="148" name="attPokemon"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="150">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="151">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="152" name="egv"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="154">    
+    <bendpoint x="4731" y="7099"/>    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="155" name="player"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="157">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="158" name="trainer"/>      
+      <multiplicity id="159" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="160">    
+    <bendpoint x="4023" y="1513"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="161" name="ba"/>      
+      <multiplicity id="162" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="163">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="164" name="store"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="167" name="moveData"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="169">    
+    <bendpoint x="4898" y="1033"/>    
+    <bendpoint x="4601" y="1513"/>    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="170" name="ba"/>      
+      <multiplicity id="171" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="172">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="173" name="itemList"/>      
+      <multiplicity id="174" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="175">    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="176" name="player"/>      
+      <multiplicity id="177" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="178">    
+    <bendpoint x="5076" y="5671"/>    
+    <bendpoint x="5076" y="6241"/>    
+    <bendpoint x="5076" y="7099"/>    
+    <bendpoint x="5076" y="7399"/>    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="179">    
+    <bendpoint x="4945" y="5671"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="180" name="def"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <bendpoint x="4919" y="1033"/>    
+    <bendpoint x="4919" y="1513"/>    
+    <bendpoint x="4919" y="2191"/>    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="183" name="imgGrab"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="185">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="186" name="trainer"/>      
+      <multiplicity id="187" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="188">    
+    <bendpoint x="5542" y="1033"/>    
+    <bendpoint x="5542" y="1513"/>    
+    <bendpoint x="5584" y="2191"/>    
+    <bendpoint x="5605" y="2797"/>    
+    <bendpoint x="5605" y="5671"/>    
+    <bendpoint x="5605" y="6241"/>    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="189" name="facing"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="192" name="pokemon"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <bendpoint x="2276" y="7099"/>    
+    <bendpoint x="2276" y="6241"/>    
+    <bendpoint x="2324" y="5671"/>    
+    <bendpoint x="2395" y="2797"/>    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="195" name="zone"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="197">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="73"/>  
+  </nesting>  
+  <association id="198">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="199" name="pokeCenter"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <bendpoint x="2647" y="2797"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="202" name="bossGuards"/>      
+      <multiplicity id="203" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <bendpoint x="4380" y="1033"/>    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="205" name="model"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="208" name="dungeonView"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="82" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="210">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="211">    
+    <bendpoint x="4752" y="7099"/>    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="212" name="ELEMENT_TYPE"/>      
+      <multiplicity id="213" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="214">    
+    <bendpoint x="5521" y="1513"/>    
+    <bendpoint x="5521" y="2191"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="215" name="imgGrab"/>      
+      <multiplicity id="216" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="217">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="218" name="db"/>      
+      <multiplicity id="219" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="220">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="221" name="pc"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="223">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="224" name="boss"/>      
+      <multiplicity id="225" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="226">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="227" name="player"/>      
+      <multiplicity id="228" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="229">    
+    <bendpoint x="2108" y="2191"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="230" name="mainZone"/>      
+      <multiplicity id="231" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="232">    
+    <bendpoint x="4214" y="2797"/>    
+    <bendpoint x="4214" y="5671"/>    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="233" name="computerPlayer"/>      
+      <multiplicity id="234" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="235">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="40"/>  
+  </generalization>  
+  <association id="236">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="237" name="observers"/>      
+      <multiplicity id="238" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="239">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="240" name="dungeon"/>      
+      <multiplicity id="241" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="242">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="11"/>  
+  </nesting>  
+  <association id="243">    
+    <bendpoint x="3667" y="7099"/>    
+    <bendpoint x="3667" y="7399"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="244" name="strategy"/>      
+      <multiplicity id="245" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="246">    
+    <bendpoint x="4199" y="571"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="247" name="pcView"/>      
+      <multiplicity id="248" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="53" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="249">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="79"/>  
+  </generalization>  
+  <association id="250">    
+    <bendpoint x="3349" y="2191"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="251" name="gymZone"/>      
+      <multiplicity id="252" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="253">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <nesting id="254">    
+    <end type="SOURCE" refId="55"/>    
+    <end type="TARGET" refId="61"/>  
+  </nesting>  
+  <nesting id="255">    
+    <end type="SOURCE" refId="82"/>    
+    <end type="TARGET" refId="41"/>  
+  </nesting>  
+  <association id="256">    
+    <bendpoint x="4580" y="1513"/>    
+    <bendpoint x="4898" y="2191"/>    
+    <bendpoint x="5542" y="2797"/>    
+    <bendpoint x="5542" y="5671"/>    
+    <bendpoint x="5542" y="6241"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="257" name="facing"/>      
+      <multiplicity id="258" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="259">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="260" name="draw"/>      
+      <multiplicity id="261" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="52" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="262">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="56"/>  
+  </nesting>  
+  <generalization id="263">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="264">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="265" name="db"/>      
+      <multiplicity id="266" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="267">    
+    <bendpoint x="5055" y="5671"/>    
+    <bendpoint x="5034" y="6241"/>    
+    <bendpoint x="4710" y="7099"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="268" name="chosenMove"/>      
+      <multiplicity id="269" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="45" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="270">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="271" name="direction"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="273">    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="274" name="model"/>      
+      <multiplicity id="275" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="276">    
+    <bendpoint x="5563" y="571"/>    
+    <bendpoint x="5563" y="1033"/>    
+    <bendpoint x="5563" y="1513"/>    
+    <bendpoint x="5563" y="2191"/>    
+    <bendpoint x="5563" y="2797"/>    
+    <bendpoint x="5563" y="5671"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="277" name="sp"/>      
+      <multiplicity id="278" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="279">    
+    <bendpoint x="4946" y="5671"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="280" name="attacker"/>      
+      <multiplicity id="281" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="282">    
+    <bendpoint x="4250" y="7399"/>    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="283" name="strategy"/>      
+      <multiplicity id="284" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="285">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <association id="286">    
+    <bendpoint x="4241" y="571"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="287" name="mainZoneView"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="289">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <association id="290">    
+    <bendpoint x="4627" y="5671"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="291" name="pokemonList"/>      
+      <multiplicity id="292" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="293">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="294" name="ELEMENT_TYPE"/>      
+      <multiplicity id="295" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="87" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="296">    
+    <bendpoint x="4898" y="1513"/>    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="297" name="ba"/>      
+      <multiplicity id="298" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="299">    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="300" name="store"/>      
+      <multiplicity id="301" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="302">    
+    <bendpoint x="2607" y="2191"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="303" name="pokeCenterZone"/>      
+      <multiplicity id="304" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="305">    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="306" name="playerZone"/>      
+      <multiplicity id="307" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="308">    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="309" name="player"/>      
+      <multiplicity id="310" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="311">    
+    <bendpoint x="4940" y="1513"/>    
+    <bendpoint x="4940" y="2191"/>    
+    <end type="SOURCE" refId="84" navigable="false">      
+      <attribute id="312" name="imgGrab"/>      
+      <multiplicity id="313" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="314">    
+    <bendpoint x="4220" y="571"/>    
+    <bendpoint x="4220" y="1033"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="315" name="model"/>      
+      <multiplicity id="316" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="317">    
+    <bendpoint x="2579" y="5671"/>    
+    <bendpoint x="2579" y="6241"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="318" name="store"/>      
+      <multiplicity id="319" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="320">    
+    <bendpoint x="5034" y="5671"/>    
+    <bendpoint x="5055" y="6241"/>    
+    <bendpoint x="5055" y="7099"/>    
+    <bendpoint x="5055" y="7399"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="321">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="322" name="model"/>      
+      <multiplicity id="323" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="324">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="325" name="model"/>      
+      <multiplicity id="326" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="327">    
+    <bendpoint x="3656" y="2797"/>    
+    <bendpoint x="3124" y="5671"/>    
+    <bendpoint x="2558" y="6241"/>    
+    <bendpoint x="2390" y="7099"/>    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="328" name="player"/>      
+      <multiplicity id="329" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="330">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="79"/>  
+  </generalization>  
+  <association id="331">    
+    <bendpoint x="3698" y="2191"/>    
+    <bendpoint x="3698" y="2797"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="332" name="pc"/>      
+      <multiplicity id="333" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="83" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="334">    
+    <bendpoint x="2516" y="6241"/>    
+    <bendpoint x="2369" y="7099"/>    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="335" name="player"/>      
+      <multiplicity id="336" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="337">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="338" name="spriteManager"/>      
+      <multiplicity id="339" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="340">    
+    <bendpoint x="4606" y="5671"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="341" name="currentPokemon"/>      
+      <multiplicity id="342" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="343">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <association id="344">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="345" name="wildPokemon"/>      
+      <multiplicity id="346" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="347">    
+    <bendpoint x="3548" y="2191"/>    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="348" name="model"/>      
+      <multiplicity id="349" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="350">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="72"/>  
+  </nesting>  
+  <realization id="351">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="64"/>  
+  </realization>  
+  <realization id="352">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="45"/>  
+  </realization>  
+  <nesting id="353">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <association id="354">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="355" name="strategy"/>      
+      <multiplicity id="356" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="357">    
+    <bendpoint x="4924" y="5671"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="358" name="att"/>      
+      <multiplicity id="359" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="360">    
+    <bendpoint x="2668" y="2797"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="361" name="trainers"/>      
+      <multiplicity id="362" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="363">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="364" name="squareArray"/>      
+      <multiplicity id="365" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="91" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="366">    
+    <bendpoint x="1796" y="1513"/>    
+    <bendpoint x="1796" y="2191"/>    
+    <bendpoint x="1796" y="2797"/>    
+    <bendpoint x="1796" y="5671"/>    
+    <bendpoint x="1796" y="6241"/>    
+    <bendpoint x="1796" y="7099"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="367" name="player"/>      
+      <multiplicity id="368" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="71" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="369">    
+    <bendpoint x="2411" y="7099"/>    
+    <bendpoint x="2600" y="6241"/>    
+    <end type="SOURCE" refId="71"/>    
+    <end type="TARGET" refId="51"/>  
+  </generalization>  
+  <association id="370">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="371" name="model"/>      
+      <multiplicity id="372" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="373">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="374" name="battle"/>      
+      <multiplicity id="375" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="376">    
+    <bendpoint x="4903" y="5671"/>    
+    <bendpoint x="5013" y="6241"/>    
+    <bendpoint x="5034" y="7099"/>    
+    <bendpoint x="5034" y="7399"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="377">    
+    <bendpoint x="4338" y="1513"/>    
+    <bendpoint x="4338" y="2191"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="378" name="imgGrab"/>      
+      <multiplicity id="379" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="380">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="52"/>  
+  </nesting>  
+  <association id="381">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="382" name="pokemonList"/>      
+      <multiplicity id="383" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="384">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="385" name="healStation"/>      
+      <multiplicity id="386" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="76" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="387">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="57"/>  
+  </nesting>  
+  <association id="388">    
+    <bendpoint x="3203" y="2191"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="389" name="dungeonZone"/>      
+      <multiplicity id="390" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="77" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="391">    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="392" name="model"/>      
+      <multiplicity id="393" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="85" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="394">    
+    <bendpoint x="4698" y="571"/>    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="395" name="endView"/>      
+      <multiplicity id="396" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="66" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="397">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="398" name="moves"/>      
+      <multiplicity id="399" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="400">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="401">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="40"/>  
+  </generalization>  
+  <association id="402">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="403" name="db"/>      
+      <multiplicity id="404" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="67" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="405">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="40"/>  
+  </generalization>  
+  <nesting id="406">    
+    <end type="SOURCE" refId="50"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="407">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="93"/>  
+  </nesting>  
+  <association id="408">    
+    <bendpoint x="2129" y="2191"/>    
+    <bendpoint x="2129" y="2797"/>    
+    <bendpoint x="2345" y="5671"/>    
+    <bendpoint x="2537" y="6241"/>    
+    <end type="SOURCE" refId="85" navigable="false">      
+      <attribute id="409" name="trader"/>      
+      <multiplicity id="410" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="74" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="411">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="412" name="pokeList"/>      
+      <multiplicity id="413" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="49" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="414">    
+    <bendpoint x="5626" y="1513"/>    
+    <bendpoint x="5626" y="2191"/>    
+    <bendpoint x="5626" y="2797"/>    
+    <bendpoint x="5626" y="5671"/>    
+    <bendpoint x="5626" y="6241"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="415" name="facing"/>      
+      <multiplicity id="416" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
