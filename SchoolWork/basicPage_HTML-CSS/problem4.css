@@ -1,0 +1,40 @@
+/**
+ * problem4.css
+ *
+ * You will be adding new rules to this file in order to alter the way that problem4.html looks
+ * when viewed in a web browser.
+ */
+
+#table-contents {
+	font-weight: 600;
+	font-size: 1.1em;
+}
+
+#table-contents ol > li > ol > li > ol {
+	margin-bottom: 0em;
+}
+
+#table-contents #section2 ol[type="i"] {
+	font-weight: 600;
+}
+
+#table-contents #section2 ol.costs {
+	font-weight: bold;
+}
+
+#table-contents .costs ol{
+	font-size: 2.0em;
+	font-weight: bold;
+}
+
+#table-contents .costs .costs {
+	color: purple;
+}
+
+aside#table-contents ol li#section3 span.recommended {
+	font-size: 1.0em;
+}
+
+aside#table-contents li#section4 ol li:last-child {
+	font-weight: bold;
+}

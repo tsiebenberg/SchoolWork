@@ -1,0 +1,68 @@
+/**
+ * problem3.css
+ *
+ * Use this file to create CSS rules that will make problem3.html look correct.
+ * Do not alter or modify the body rule.
+ */
+ 
+body {
+  margin: 0;
+  padding: 0;
+  height: 2000px;
+}
+
+/**
+ * Place your CSS rules below here
+ */
+
+div {
+	/*position: relative;*/
+}
+
+.cornerbox {
+	width: 250px;
+	height: 250px;
+	border: dotted green 5px;
+	
+}
+
+.cornerbox div {
+	position: relative;
+	width: 25px;
+	height: 25px;
+	background-color: blue;
+}
+
+.topleft {
+	
+}
+
+.topright {
+	top: -25px;
+	left: 225px;
+}
+
+.botleft {
+	top: 175px;
+}
+
+.botright {
+	top: 150px;
+	left: 225px;
+}
+
+#block1  {
+	position: absolute;
+	right: 0px;
+}
+
+#block2 {
+	position: fixed;
+	top: 300px;
+}
+
+#block3 {
+	position: absolute;
+	left: 45%;
+	bottom: 0;
+}
